@@ -1,0 +1,11 @@
+body {
+	outline: none;
+}
+
+div {
+	outline: auto;
+}
+
+.topbutton{
+	outline: none;
+}
