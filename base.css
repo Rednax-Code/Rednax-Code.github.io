@@ -1,21 +1,45 @@
 body {
 	outline: none;
+	font-size: large;
 }
 
-div {
-	outline: auto;
+h2 {
+	margin: 0px;
+	margin-bottom: 15px;
+	text-decoration: underline;
+}
+
+iframe {
+	display: block;
+	width: 646px;
+	height: 190px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .topbar {
+	outline: auto;
 	text-align: center;
-	font-size: medium;
+	font-size: xxx-large;
+	width: 920px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .outer {
+	outline: auto;
 	width: fit-content;
+	height: fit-content;
+	width: 900px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
 }
 
 .inner {
-	align-self: center;
-	width: 900px;
+	outline: auto;
+	padding: 10px;
 }
