@@ -6,6 +6,16 @@ div {
 	outline: auto;
 }
 
-.topbutton{
-	outline: none;
+.topbar {
+	text-align: center;
+	font-size: medium;
+}
+
+.outer {
+	width: fit-content;
+}
+
+.inner {
+	align-self: center;
+	width: 900px;
 }
